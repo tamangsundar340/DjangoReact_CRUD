@@ -1,9 +1,10 @@
 
 # Basic note
 create virtualenviroment
+activate virtualenviroment
 install requirements (pip install -r requirements.txt)
 run django server 
-run reactjs server
+run reactjs server(enter inside forntend then run reactjs)
 
 # Super user credential 
 username = admin
